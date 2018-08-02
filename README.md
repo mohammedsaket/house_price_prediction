@@ -1,4 +1,4 @@
-# house_price_pridiction
+# house_price_prediction
 Regression
 
 # Here's a brief version of what you'll find in the data description file.
